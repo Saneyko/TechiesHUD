@@ -78,7 +78,7 @@ TechiesHUD.Locale = {
 		["russian"] = "Задержка автоматического подрыва"
 	},
 	["forceStaff"] = {
-		["english"] = "Auto force stuff",
+		["english"] = "Auto force stuffer",
 		["russian"] = "Автоматическое приминение force stuff"
 	},
 	["forceStaffLine"] = {
